@@ -2,6 +2,4 @@ Esta es la historia de Carlos Fuentes
 
 Carlos Fuentes quiere aprender sobre Git y PHP
 
-A Carlos no le sirven los riñones
-
-Hoy hablaremos de otra vaina y sabe que
+No quiero escribir tanta pendejada
