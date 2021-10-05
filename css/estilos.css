@@ -13,24 +13,26 @@ body {
 .container {
   position: relative;
   border: 1px solid aquamarine;
-  padding: 80px 50px 20px 50px;
   max-width: 600px;
   overflow: hidden;
 }
 
 .title {
   text-align: center;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
 }
 
 .pagraph {
   text-align: center;
+  width: 90%;
+  margin: 20px auto;
+
 }
 
 .cabecera {
   font-family: "Courier New", Courier, monospace;
-  position: absolute;
-  top: 0px;
-  left: 0px;
   background-color: aquamarine;
   width: 100%;
   font-size: 20px;
@@ -45,4 +47,11 @@ body {
   font-weight: bold;
   font-size: 24px;
   margin-right: 20px;
+}
+
+#footer {
+  padding: 10px;
+  background-color: #777;
+  color: white;
+  width: 100%;
 }
