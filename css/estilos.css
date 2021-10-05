@@ -15,24 +15,26 @@ body {
   position: relative;
   border: 1px solid rgb(77, 97, 90);
   background-color: white;
-  padding: 80px 50px 20px 50px;
   max-width: 600px;
   overflow: hidden;
 }
 
 .title {
   text-align: center;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
 }
 
 .pagraph {
   text-align: center;
+  width: 90%;
+  margin: 20px auto;
+
 }
 
 .cabecera {
   font-family: "Courier New", Courier, monospace;
-  position: absolute;
-  top: 0px;
-  left: 0px;
   width: 100%;
   font-size: 20px;
   color: white;
@@ -54,4 +56,13 @@ body {
   font-weight: bold;
   font-size: 24px;
   margin-right: 20px;
+}
+
+#footer {
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px;
+  background-color: #555;
+  color: white;
+  text-align: center;
+  width: 100%;
 }
